@@ -1,7 +1,46 @@
-## Hi there 👋
+<h1>Hi, I'm Linh! <br/><a href="https://github.com/joshmadakor1">Software Engineering Intern</a>
+
+  
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>🌱 Education:</h2>
+
+<b>Electric Power University</b>
+  - Degree: Software Engineering
+
+
+<h2>📺 Technical Skills:</h2>
+
+- Programming Languages: C#, Python
+- Technologies & Frameworks: .NET, Desktop Applications, Data Structures & Algorithms
+  
+<h2>💬 Languages:</h2>
+
+- English: TOEIC 650 (Basic proficiency in communication and comprehension)
+- Chinese: Basic conversational proficiency
+
+<h2> ⚡ Hobbies:</h2>
+
+-Exploring programming and experimenting with new technologies.
+
+-Enjoying gaming, reading books, and playing musical instruments.
+
+<h2> 🤳 Connect with me:</h2>
+
+- Facebook:https://www.facebook.com/profile.php?id=100011211871919
+- Instragram:https://www.instagram.com/monaliling/
+- Gmail: https://mail.google.com/mail/u/1/?ogbl#inbox
+- WeixinID: Aa13087738906
 
 <!--
-**vukhanhlinh72/vukhanhlinh72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
