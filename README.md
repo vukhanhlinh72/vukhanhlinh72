@@ -9,6 +9,7 @@
   - https://github.com/vukhanhlinh72/qrcodegenerator.git
   - https://github.com/vukhanhlinh72/caculator.git
   - https://github.com/vukhanhlinh72/schedule.git
+  - https://github.com/vukhanhlinh72/car_repair_services.git
 
 <h2>🌱 Education:</h2>
 
