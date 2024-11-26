@@ -1,4 +1,4 @@
-<h1>Hi, I'm Linh! <br/><a href="https://github.com/joshmadakor1">Software Engineering Intern</a>
+<h1>Hi, I'm Linh! <br/><a href="https://github.com/joshmadakor1">Software Engineering </a>
 
   
 <h2>👨‍💻 Software Development Projects:</h2>
