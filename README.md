@@ -10,7 +10,8 @@
   - https://github.com/vukhanhlinh72/caculator.git
   - https://github.com/vukhanhlinh72/schedule.git
   - https://github.com/vukhanhlinh72/car_repair_services.git
-
+  - https://github.com/vukhanhlinh72/A-algorithm.git
+  - 
 <h2>🌱 Education:</h2>
 
 <b>Electric Power University</b>
