@@ -8,6 +8,7 @@
   - 
 - <b>Python</b>
   - https://github.com/vukhanhlinh72/caculator.git
+  - https://github.com/vukhanhlinh72/schedule.git
 
 <h2>🌱 Education:</h2>
 
