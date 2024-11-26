@@ -7,6 +7,7 @@
   - 
   - 
 - <b>Python</b>
+  - https://github.com/vukhanhlinh72/qrcodegenerator.git
   - https://github.com/vukhanhlinh72/caculator.git
   - https://github.com/vukhanhlinh72/schedule.git
 
