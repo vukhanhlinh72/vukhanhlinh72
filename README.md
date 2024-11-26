@@ -4,8 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - 
-  - 
+  - https://github.com/TuanAnh19122003/Do_An_QLNH.git
 - <b>Python</b>
   - https://github.com/vukhanhlinh72/qrcodegenerator.git
   - https://github.com/vukhanhlinh72/caculator.git
